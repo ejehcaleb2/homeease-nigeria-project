@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="space-y-3">
               <a href="mailto:caleb.ejeh@example.com" className="flex items-center text-gray-300 hover:text-gold transition-colors">
                 <Mail className="h-5 w-5 mr-2" />
-                caleb.ejeh@example.com
+                ejehcalebthefirst@gmail.com
               </a>
               <a href="#" className="flex items-center text-gray-300 hover:text-gold transition-colors">
                 <Linkedin className="h-5 w-5 mr-2" />
