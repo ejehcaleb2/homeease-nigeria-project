@@ -99,7 +99,7 @@ const JourneySection = () => {
         {/* Call-out Quote */}
         <div className="text-center bg-navy text-white p-8 rounded-xl">
           <blockquote className="text-xl md:text-2xl font-medium italic mb-4">
-            "Over 80% of renters in Lagos lose money to fake listings or double-charged agents."
+            "Over 50% of renters in Lagos lose money to fake listings or double-charged agents."
           </blockquote>
           <cite className="text-gold">— Nigeria Housing Market Research, 2024</cite>
         </div>

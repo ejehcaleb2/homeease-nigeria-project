@@ -14,7 +14,7 @@ const Footer = () => {
               Making rent fair in Nigeria through technology, transparency, and trust.
             </p>
             <p className="text-sm text-gray-400">
-              Academic Entrepreneurship Project | 2024
+              ENT 110 PROJECT | 2025
             </p>
           </div>
 

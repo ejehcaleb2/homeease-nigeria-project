@@ -43,7 +43,7 @@ const PrototypeSection = () => {
             Prototype & Product Vision
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            From research insights to functional prototypes, here's how HomeEase evolved 
+            From research insights to functional prototypes, here's how HomeEaseaim at evolving
             from concept to near-reality through user-centered design.
           </p>
         </div>

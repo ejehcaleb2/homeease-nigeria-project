@@ -37,12 +37,12 @@ const HeroSection = () => {
             </h1>
             
             <p className="text-lg sm:text-xl md:text-2xl text-gray-200 mb-8 max-w-4xl mx-auto leading-relaxed">
-              A digital solution designed to break the barrier between tenants and landlords — one verified listing at a time.
+              A digital solution designed to break the barrier between tenants and landlords, one verified listing at a time.
             </p>
             
             <div className="mb-12">
               <p className="text-base sm:text-lg text-gray-300 mb-8 max-w-3xl mx-auto">
-                As someone who grew up in Nigeria and saw firsthand how housing injustice affects families, 
+                As someone who grew up in Nigeria and saw firsthand how housing injustice affects millions families, 
                 I built HomeEase to disrupt the rent exploitation culture with transparency, access, and fairness.
               </p>
               

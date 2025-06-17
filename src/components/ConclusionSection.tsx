@@ -18,7 +18,7 @@ const ConclusionSection = () => {
     {
       icon: TrendingUp,
       title: "Business Model Validated",
-      description: "1% service fee model tested and approved by target users"
+      description: "Low service fee model tested and approved by target users"
     }
   ];
 
@@ -51,7 +51,7 @@ const ConclusionSection = () => {
             What's Next?
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto">
-            HomeEase has evolved from concept to validated prototype. Here's where we stand 
+            HomeEase has evolved from concept to validated prototype. Here's where i stand 
             and the exciting journey ahead as we prepare to transform Nigeria's rental market.
           </p>
         </div>
@@ -115,7 +115,7 @@ const ConclusionSection = () => {
             Our Mission Continues
           </h3>
           <p className="text-xl md:text-2xl mb-8 max-w-4xl mx-auto leading-relaxed">
-            "We're not just building tech—we're building trust, fairness, and access to housing for everyday Nigerians."
+            "I'm not just building tech—we're building trust, fairness, and access to housing for everyday Nigerians."
           </p>
           <div className="grid md:grid-cols-3 gap-8 text-center">
             <div>
@@ -136,11 +136,11 @@ const ConclusionSection = () => {
         {/* Academic Project Footer */}
         <div className="mt-16 text-center border-t pt-8">
           <p className="text-gray-600 mb-4">
-            This project was developed as part of an academic entrepreneurship program
+            This project was developed as part of the ALX Pathway venture creation project|ENT110 
           </p>
           <div className="text-navy font-semibold">
             <p>Caleb Ejeh</p>
-            <p className="text-sm text-gray-500">Entrepreneurship Project | 2024</p>
+            <p className="text-sm text-gray-500">Venture Creation Project | 2025</p>
           </div>
         </div>
       </div>
